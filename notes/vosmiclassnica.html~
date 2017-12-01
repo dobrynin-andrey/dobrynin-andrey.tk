@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+      "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <title>Группа "КИНО"</title>
+  <meta name="generator" content="Bluefish 2.2.3" />
+   <link rel="stylesheet" type="text/css" href="menu.css"/>
+  
+</head>
+
+<body>
+
+
+<div id="wrapper">
+
+<div id="header">
+    <p class="logotext"><strong>Группа"КИНО"</strong></p> 
+    <p class="logotext2">Давайте играть вместе!</p>
+   
+    </div>
+
+    <div style="margin-left:50px;">
+        <ul id="menu">
+            <li class="logo">
+                <a href="index.html"><img style="float:left;" alt="" src="menu_left.png"/></a>
+                
+                <ul id="main">
+                    <li><b>Мои песни!</b> Табы, аккорды, текст - все об аккомпанементе на гитаре. <b>Давайте играть вместе!</b></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_blue_left.png"/>
+                        <img class="middle" alt="" src="dot_blue.png"/>
+                        <img class="corner_right" alt="" src="corner_blue_right.png"/>
+                    </li>
+                </ul>
+                
+            </li>
+            <li><a href="index.html">Главная страница</a>
+            </li>
+            <li><a href="accords.html">Аккорды</a>
+            </li>
+            <li><a href="#">Исполнители</a>
+                <ul id="ispolniteli">
+                    <li>
+                        <img class="corner_inset_left" alt="" src="corner_inset_left.png"/>
+                        <a href="kino.html">Группа "КИНО"</a>
+                        <img class="corner_inset_right" alt="" src="corner_inset_right.png"/>
+                    </li>
+                    <li><a href="strykalo.html">Группа "Валентин Стрыкало"</a></li>
+                    <li><a href="lumen.html">Группа "Lumen"</a></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                    </li>
+                </ul>
+            </li>
+            <li>               
+               <a href="avtory.html">Об авторах</a></li>
+               <li> <ul id="search">
+                      
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                        
+                    </li>
+                    <li><img style="float:left;" alt="" src="menu_right.png"/></li>
+                </ul>
+            </li>
+        </ul>
+        <img style="margin-left:-42px" alt="" src="menu_right.png"/>
+        </div>
+        
+        <div style="margin-top: -48px;" id="content">
+
+<h2>Восьмиклассница</h2>        
+        
+        <p>муз. Цой В. / сл. Цой В.</p>
+        <p>&nbsp;</p>
+<pre class="m10">
+<B>Вступление:</B> Em  } 3 раза
+<B>           </B> Am Em | Am Em  } 2 раза
+
+   Am        Em
+Пустынной улицей вдвоём
+    C           G
+С тобой куда-то мы идём,
+F         G     C    Am
+Я курю, а ты конфеты ешь.
+             Em
+И светят фонари давно,
+   C             G
+Ты говоришь: "Пойдём в кино",
+  F        G      C      Am
+А я тебя зову в кабак, конечно.
+
+<B><U>Припев:</U></B>
+     F  G        C            Am
+     Мм-м, восьмиклассница а-аа,
+     F  G F Em Am
+     Мм-м…
+
+<B>Проигрыш:</B> Am Em | Am Em  } 2 раза
+
+Ты говоришь, что у тебя
+По географии трояк,
+А мне на это просто наплевать.
+Ты говоришь, из-за тебя
+Там кто-то получил синяк -
+Многозначительно молчу, и дальше мы идём гулять.
+
+<B><U>Припев:</U></B>
+     Мм-м, восьмиклассница а-аа,
+     Мм-м…
+
+<B>Проигрыш:</B> Am Em | Am Em  } 2 раза
+<B>         </B> Am Em | C G | F G | C Am  } 2 раза
+
+     Мм-м, восьмиклассница а-аа,
+     Аа-а…
+
+<B>Проигрыш:</B> Am Em | Am Em  } 2 раза
+
+Мамина помада,
+Сапоги старшей сестры,
+Мне легко с тобой, а ты гордишься мной,
+Ты любишь своих кукол
+И воздушные шары.
+Но в десять ровно мама ждёт тебя домой.
+
+<B><U>Припев:</U></B>
+     F  G        C            Am
+     Мм-м, восьмиклассница а-аа,
+     F  G        C            Am
+     Мм-м, восьмиклассница а-аа,
+     F      G        C            Am
+     Ах, мм-м, восьмиклассница а-аа…
+</pre>
+        
+    
+   
+    <div style="float:none; clear:both;"></div>
+    
+
+      
+  </div> 
+  <div id="footer">
+    <p>Copyright &copy;. All rights reserved. Design by Andrey Dobrynin</p>  
+    </div>    
+</div>
+
+
+
+
+
+
+</body>
+</html>

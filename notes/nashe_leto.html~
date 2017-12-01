@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+      "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <title>Группа "КИНО"</title>
+  <meta name="generator" content="Bluefish 2.2.3" />
+   <link rel="stylesheet" type="text/css" href="menu.css"/>
+  
+</head>
+
+<body>
+
+
+<div id="wrapper">
+
+<div id="header">
+    <p class="logotext"><strong>Группа "КИНО"</strong><br>
+      <span class="logotext2">Давайте играть вместе!</span></p>
+   
+    </div>
+
+    <div style="margin-left:50px;">
+        <ul id="menu">
+            <li class="logo">
+                <a href="index.html"><img style="float:left;" alt="" src="menu_left.png"/></a>
+                
+                <ul id="main">
+                    <li><b>Мои песни!</b> Табы, аккорды, текст - все об аккомпанементе на гитаре. <b>Давайте играть вместе!</b></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_blue_left.png"/>
+                        <img class="middle" alt="" src="dot_blue.png"/>
+                        <img class="corner_right" alt="" src="corner_blue_right.png"/>
+                    </li>
+                </ul>
+                
+            </li>
+            <li><a href="index.html">Главная страница</a>
+            </li>
+            <li><a href="accords.html">Аккорды</a>
+            </li>
+            <li><a href="#">Исполнители</a>
+                <ul id="ispolniteli">
+                    <li>
+                        <img class="corner_inset_left" alt="" src="corner_inset_left.png"/>
+                        <a href="kino.html">Группа "КИНО"</a>
+                        <img class="corner_inset_right" alt="" src="corner_inset_right.png"/>
+                    </li>
+                    <li><a href="strykalo.html">Группа "Валентин Стрыкало"</a></li>
+                    <li><a href="#">Группа "Lumen"</a></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                    </li>
+                </ul>
+            </li>
+            <li>               
+               <a href="avtory.html">Об авторах</a></li>
+               <li> <ul id="search">
+                      
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                        
+                    </li>
+                    <li><img style="float:left;" alt="" src="menu_right.png"/></li>
+                </ul>
+            </li>
+        </ul>
+        <img style="margin-left:-42px" alt="" src="menu_right.png"/>
+        </div>
+        
+        <div style="margin-top: -48px;" id="content">
+
+<h2>Наше лето</h2>        
+        
+ <p>муз. Каплан Ю. / сл. Каплан Ю.</p>
+ <pre class="m10">
+   Am        F         Dm           E
+Тихо лужи покрывает лед,помнишь мы с тобою
+Целовались ночи напролет под шум прибоя
+Это лето не вернуть уже я знаю 
+Но когда печаль в моей душе я вспоминаю 
+
+<strong>Припев:</strong>
+ Am   F         Dm           E
+Яхта,парус,в это мире только мы одни
+Ялта,август и мы с тобою влюблены 
+Яхта,парус,в это мире только мы одни
+Ялта,август и мы с тобою влюблены 
+
+Но расстаться нам с тобой пришлось кончилась путевка
+И вагон плацкартный меня нес в Новую Каховку 
+Не забуду ночи при луне и твою улыбку
+Ты открытку подарила мне, а на той открытке
+
+<strong>Припев:</strong>
+
+Яхта,парус,в это мире только мы одни
+Ялта,август и мы с тобою влюблены 
+Яхта,парус,в это мире только мы одни
+Ялта,август и мы с тобою влюблены 
+
+Яхта,парус,в это мире только мы одни
+Ялта,август и мы с тобою влюблены
+</pre>
+        
+    
+   
+    <div style="float:none; clear:both;"></div>
+    
+
+      
+  </div> 
+  <div id="footer">
+    <p>Copyright &copy;. All rights reserved. Design by Andrey Dobrynin</p>  
+    </div>    
+</div>
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+      "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <title>Главная страница</title>
+  <link rel="stylesheet" type="text/css" href="menu.css"/>
+  
+</head>
+
+
+<body>
+<div id="wrapper">
+
+<div id="header">
+    <p class="logotext"><strong>Мои песни</strong></p> 
+    <p class="logotext2">Давайте играть вместе!</p>
+   
+    </div>
+
+    <div style="margin-left:50px;">
+        <ul id="menu">
+            <li class="logo">
+                <a href="index.html"><img style="float:left;" alt="" src="menu_left.png"/></a>
+                
+                <ul id="main">
+                    <li><strong>Мои песни!</strong> Табы, аккорды, текст - все об аккомпанементе на гитаре. <strong>Давайте играть вместе!</strong></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_blue_left.png"/>
+                        <img class="middle" alt="" src="dot_blue.png"/>
+                        <img class="corner_right" alt="" src="corner_blue_right.png"/>
+                    </li>
+                </ul>
+                
+            </li>
+            <li><a href="index.html">Главная страница</a>
+            </li>
+            <li><a href="accords.html">Аккорды</a>
+            </li>
+            <li><a href="#">Исполнители</a>
+                <ul id="ispolniteli">
+                    <li>
+                        <img class="corner_inset_left" alt="" src="corner_inset_left.png"/>
+                        <a href="kino.html">Группа "КИНО"</a>
+                        <img class="corner_inset_right" alt="" src="corner_inset_right.png"/>
+                    </li>
+                    <li><a href="strykalo.html">Группа "Валентин Стрыкало"</a></li>
+                    <li><a href="lumen.html">Группа "Lumen"</a></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                    </li>
+                </ul>
+            </li>
+            <li>               
+               <a href="avtory.html">Об авторах</a></li>
+               <li> <ul id="search">
+                      
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                        
+                    </li>
+                    <li><img style="float:left;" alt="" src="menu_right.png"/></li>
+                </ul>
+            </li>
+        </ul>
+        <img style="margin-left:-42px" alt="" src="menu_right.png"/>
+        </div>
+        
+        <div style="margin-top: -48px;" id="content">
+        <h3>Этот сайт для моих друзей, с которыми я бы хотел играть на гитаре и исполнять совместно песни.</h3>
+        <p class="m12"> На этом сайте вы сможете ознакомиться  с аккордами и текстом песен тех исполнителей, которые я люблю, а также с композициями моего <strong>собственного сочинения.</strong></p>
+        <p class="m12">Я считаю, что у большинства людей, кто хоть разок держал гитару в руках, возникало непреодолимое желание научиться играть на этом музыкальном инструменте. И как вы уже догадались, я попал в число таких людей, но у меня не было средств и времени на посещение музыкальных школ, кружков и т.п. &nbsp; Поэтому я - <strong>"самоучка"</strong> , но это мне не мешает играть на гитаре и получать удовольствие.</p>
+    	  <img class="importance" alt="" src="importance.jpg"/>
+    	  <p class="m12">Научиться может каждый, при <strong>большом желании и терпении</strong> . И тем, кому это удалось или же только все в процессе, я желаю удачи и творческих успехов!</p>
+   
+   
+    
+
+
+   </div> 
+   <div id="footer">
+  
+    <p>Copyright &copy;. All rights reserved. Design by Andrey Dobrynin </p>     
+    </div>  
+</div>
+
+
+</body>
+
+</html>

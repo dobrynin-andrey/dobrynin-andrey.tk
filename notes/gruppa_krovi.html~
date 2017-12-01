@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+      "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <title>Группа "КИНО"</title>
+  <meta name="generator" content="Bluefish 2.2.3" />
+   <link rel="stylesheet" type="text/css" href="menu.css"/>
+  
+</head>
+
+<body>
+
+
+<div id="wrapper">
+
+<div id="header">
+    <p class="logotext"><strong>Группа"КИНО"</strong></p> 
+    <p class="logotext2">Давайте играть вместе!</p>
+   
+    </div>
+
+    <div style="margin-left:50px;">
+        <ul id="menu">
+            <li class="logo">
+                <a href="index.html"><img style="float:left;" alt="" src="menu_left.png"/></a>
+                
+                <ul id="main">
+                    <li><b>Мои песни!</b> Табы, аккорды, текст - все об аккомпанементе на гитаре. <b>Давайте играть вместе!</b></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_blue_left.png"/>
+                        <img class="middle" alt="" src="dot_blue.png"/>
+                        <img class="corner_right" alt="" src="corner_blue_right.png"/>
+                    </li>
+                </ul>
+                
+            </li>
+            <li><a href="index.html">Главная страница</a>
+            </li>
+            <li><a href="accords.html">Аккорды</a>
+            </li>
+            <li><a href="#">Исполнители</a>
+                <ul id="ispolniteli">
+                    <li>
+                        <img class="corner_inset_left" alt="" src="corner_inset_left.png"/>
+                        <a href="kino.html">Группа "КИНО"</a>
+                        <img class="corner_inset_right" alt="" src="corner_inset_right.png"/>
+                    </li>
+                    <li><a href="strykalo.html">Группа "Валентин Стрыкало"</a></li>
+                    <li><a href="#">Группа "Lumen"</a></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                    </li>
+                </ul>
+            </li>
+            <li>               
+               <a href="avtory.html">Об авторах</a></li>
+               <li> <ul id="search">
+                      
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                        
+                    </li>
+                    <li><img style="float:left;" alt="" src="menu_right.png"/></li>
+                </ul>
+            </li>
+        </ul>
+        <img style="margin-left:-42px" alt="" src="menu_right.png"/>
+        </div>
+        
+        <div style="margin-top: -48px;" id="content">
+
+        <h2>Группа крови</h2>        
+        <p>муз. Цой В. / сл. Цой В.</p>
+        
+<pre class="m10">
+<strong>Вступление:</strong> F#m
+            F#m | F#m | C#m<SUB>7</SUB> C#m<SUB>7</SUB>sus<SUB>4</SUB> | C#m<SUB>7</SUB>sus<SUB>4</SUB>  } 4 раза
+
+F#m
+Тёплое место, но улицы ждут
+    C#m               F#m
+Отпечатков наших ног.
+             E
+Звёздная пыль на сапогах.
+F#m
+Мягкое кресло, клетчатый плед,
+     C#m                  F#m
+Не нажатый вовремя курок.
+                     E
+Солнечный день в ослепительных снах.
+
+<strong> Припев: </strong>
+            F#m
+     Группа крови - на рукаве,
+                    C#m
+     Мой порядковый номер - на рукаве.
+         Hm<SUB>7</SUB>
+     Пожелай мне удачи в бою,
+         E
+     Пожелай мне
+          F#m
+     Не остаться в этой траве,
+          C#m
+     Не остаться в этой траве.
+         Hm<SUB>7</SUB>
+     Пожелай мне удачи,
+         E        F#m
+     Пожелай мне удачи.
+
+<strong>Проигрыш:</strong> F#m | F#m | C#m<SUB>7</SUB> C#m<SUB>7</SUB>sus<SUB>4</SUB> | C#m<SUB>7</SUB>sus<SUB>4</SUB>  } 2 раза
+
+И есть чем платить, но я не хочу
+Победы любой ценой.
+Я никому не хочу ставить ногу на грудь.
+Я хотел бы остаться с тобой,
+Просто остаться с тобой,
+Но высокая в небе звезда зовёт меня в путь.
+
+<strong>Припев:</strong>
+     Группа крови - на рукаве,
+     Мой порядковый номер - на рукаве.
+     Пожелай мне удачи в бою,
+     Пожелай мне
+     Не остаться в этой траве,
+     Не остаться в этой траве.
+     Пожелай мне удачи,
+     Пожелай мне удачи.
+
+<strong>Кода:</strong> F#m | F#m | C#m | C#m  } 10 раз
+</pre>
+        
+    
+   
+    <div style="float:none; clear:both;"></div>
+    
+
+    </div> 
+    <div id="footer">
+    <p>Copyright &copy;. All rights reserved. Design by Andrey Dobrynin</p>  
+    </div>   
+      
+</div>
+
+
+
+
+
+
+</body>
+</html>

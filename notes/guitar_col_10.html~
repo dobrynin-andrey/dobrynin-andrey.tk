@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+      "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <title>Аккорды</title>
+  <meta name="generator" content="Bluefish 2.2.3" />
+
+
+  <link rel="stylesheet" type="text/css" href="menu.css"/>
+  
+</head>
+
+
+<body>
+
+<div id="wrapper">
+
+<div id="header">
+    <p class="logotext"><strong>Аккорды</strong></p> 
+    <p class="logotext2">Давайте играть вместе!</p>
+   
+    </div>
+
+    <div style="margin-left:50px;">
+        <ul id="menu">
+            <li class="logo">
+                <a href="index.html"><img style="float:left;" alt="" src="menu_left.png"/></a>
+                
+                <ul id="main">
+                    <li><b>Мои песни!</b> Табы, аккорды, текст - все об аккомпанементе на гитаре. <b>Давайте играть вместе!</b></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_blue_left.png"/>
+                        <img class="middle" alt="" src="dot_blue.png"/>
+                        <img class="corner_right" alt="" src="corner_blue_right.png"/>
+                    </li>
+                </ul>
+                
+            </li>
+            <li><a href="index.html">Главная страница</a>
+            </li>
+            <li><a href="accords.html">Аккорды</a>
+            </li>
+            <li><a href="#">Исполнители</a>
+                <ul id="ispolniteli">
+                    <li>
+                        <img class="corner_inset_left" alt="" src="corner_inset_left.png"/>
+                        <a href="kino.html">Группа "КИНО"</a>
+                        <img class="corner_inset_right" alt="" src="corner_inset_right.png"/>
+                    </li>
+                    <li><a href="strykalo.html">Группа "Валентин Стрыкало"</a></li>
+                    <li><a href="lumen.html">Группа "Lumen"</a></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                    </li>
+                </ul>
+            </li>
+            <li>               
+               <a href="avtory.html">Об авторах</a></li>
+               <li> <ul id="search">
+                      
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                        
+                    </li>
+                    <li><img style="float:left;" alt="" src="menu_right.png"/></li>
+                </ul>
+            </li>
+        </ul>
+        <img style="margin-left:-42px" alt="" src="menu_right.png"/>
+        
+    </div>
+   
+    <div style="float:none; clear:both;"></div>
+    
+    <div style="margin-top: -48px;" id="content">
+        
+                        <div>
+                        <p class="m10">Здесь представлены схемы (аппликатуры) наиболее распространенных аккордов.</p>
+								<p class="m10">Все аккорды распределены по группам, в зависимости от ноты, от которой они строятся. Изучите аппликатуры минорных и мажорных аккордов, септаккордов, квинтаккордов и других (с приставками m, sus2, sus4, 7 и т.д.).</p>
+								<p class="m10">Один и тот же аккорд может быть представлен в нескольких вариантах (например, с баррэ и без), из которых можно выбрать наиболее удобный.</p>
+								<p class="m10">Если вы не знаете, как читаются схемы аккордов, ознакомьтесь сперва с уроком <a href="guitar_read.html"><strong>&laquo;Как читать аккорды&raquo;</strong></a>.</p>
+							
+								
+								</div>
+								<div style="float:left; width:295px;" >
+									<ul>
+										<li><a href="accords.html"><strong>A &mdash; ля </strong></a></li>
+										<li><a href="guitar_col_02.html"><strong>A# (B) &mdash; ля-диез (си-бемоль)</strong></a></li>
+										<li><a href="guitar_col_03.html"><strong>H &mdash; си</strong></a></li>
+										<li><a href="guitar_col_04.html"><strong>C &mdash; до</strong></a></li>
+										<li><a href="guitar_col_05.html"><strong>C# (Db) &mdash; до-диез (ре-бемоль)</strong></a></li>
+										<li><a href="guitar_col_06.html"><strong>D &mdash; ре</strong></a></li>
+									</ul>
+								</div>
+								<div style="margin-left: 325px;">
+									<ul>
+										<li><a href="guitar_col_07.html"><strong>D# (Eb) &mdash; ре-диез (ми-бемоль)</strong></a></li>
+										<li><a href="guitar_col_08.html"><strong>E &mdash; ми</strong></a></li>
+										<li><a href="guitar_col_09.html"><strong>F &mdash; фа</strong></a></li>
+										<li><a href="guitar_col_10.html"><strong>F# (Gb) &mdash; фа-диез (соль-бемоль)</strong></a></li>
+										<li><a href="guitar_col_11.html"><strong>G &mdash; соль</strong></a></li>
+										<li><a href="guitar_col_12.html"><strong>G# (Ab) &mdash; соль-диез (ля-бемоль)</strong></a></li>
+									</ul>
+								</div>
+								<p>&nbsp;</p>
+								<div>					
+								<h2>Аккорды, построенные от ноты  фа-диез (соль-бемоль) &mdash; F# (Gb):</h2>
+								<p><img src="accords/chord10f1.gif" alt="Схемы аккордов"></p>
+								</div>
+								        </div>
+								        <div id="footer">
+    <p>Copyright &copy;. All rights reserved. Design by Andrey Dobrynin</p>  
+    </div> 
+								        
+    </div>   
+    </body>
+
+</html>

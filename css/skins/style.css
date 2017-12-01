@@ -1,0 +1,71 @@
+body {
+  color: #222222;
+}
+body a,
+.header-menu__ul__li__a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.header-menu__ul__li__a:hover {
+  color: #ff6347;
+  background-color: rgba(255, 255, 255, 0.08);
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  -webkit-transition: all 0.5s ease;
+}
+.bg_dark {
+  background-color: #222222;
+}
+.bg_light {
+  background-color: #fafafa;
+}
+.bg_white {
+  background-color: #ffffff;
+}
+.social-icons__ul__li,
+.section-content a,
+.section-wrapper-4__contacts a {
+  color: #ff6347;
+}
+.theme-color-text,
+.text-danger li,
+.contact-icon {
+  color: #ff6347;
+}
+p,
+li,
+.header-wrapper,
+.footer-wrapper {
+  color: #888888;
+}
+.main-color-bg {
+  background-color: #222222;
+}
+.header-menu__bottom {
+  background-color: #000000;
+}
+.section-wrapper-2__year {
+  background-color: #ff6347;
+  color: #fff;
+}
+.section-wrapper-4__form__input:focus,
+.section-wrapper-4__form__textarea:focus {
+  border: 1px solid #ff6347;
+}
+.section-wrapper-4__form__button {
+  background-color: #ff6347;
+  color: #fff;
+}
+.section-wrapper-3__select-menu__li {
+  color: #888888;
+}
+.section-wrapper-3__select-menu__li_active {
+  border-bottom: 2px solid #ff6347;
+  padding-bottom: 10px;
+  color: #ffffff;
+}
+.section-wrapper-3__portfolio-wrapper__item__content button {
+  color: #ff6347;
+  border: 2px solid #ff6347;
+  background-color: transparent;
+}

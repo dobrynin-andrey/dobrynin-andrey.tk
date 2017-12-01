@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+      "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <title>Группа "КИНО"</title>
+  <meta name="generator" content="Bluefish 2.2.3" />
+   <link rel="stylesheet" type="text/css" href="menu.css"/>
+  
+</head>
+
+<body>
+
+
+<div id="wrapper">
+
+<div id="header">
+    <p class="logotext"><strong>Группа"КИНО"</strong></p> 
+    <p class="logotext2">Давайте играть вместе!</p>
+   
+    </div>
+
+    <div style="margin-left:50px;">
+        <ul id="menu">
+            <li class="logo">
+                <a href="index.html"><img style="float:left;" alt="" src="menu_left.png"/></a>
+                
+                <ul id="main">
+                    <li><b>Мои песни!</b> Табы, аккорды, текст - все об аккомпанементе на гитаре. <b>Давайте играть вместе!</b></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_blue_left.png"/>
+                        <img class="middle" alt="" src="dot_blue.png"/>
+                        <img class="corner_right" alt="" src="corner_blue_right.png"/>
+                    </li>
+                </ul>
+                
+            </li>
+            <li><a href="index.html">Главная страница</a>
+            </li>
+            <li><a href="accords.html">Аккорды</a>
+            </li>
+            <li><a href="#">Исполнители</a>
+                <ul id="ispolniteli">
+                    <li>
+                        <img class="corner_inset_left" alt="" src="corner_inset_left.png"/>
+                        <a href="kino.html">Группа "КИНО"</a>
+                        <img class="corner_inset_right" alt="" src="corner_inset_right.png"/>
+                    </li>
+                    <li><a href="strykalo.html">Группа "Валентин Стрыкало"</a></li>
+                    <li><a href="lumen.html">Группа "Lumen"</a></li>
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                    </li>
+                </ul>
+            </li>
+            <li>               
+               <a href="avtory.html">Об авторах</a></li>
+               <li> <ul id="search">
+                      
+                    <li class="last">
+                        <img class="corner_left" alt="" src="corner_left.png"/>
+                        <img class="middle" alt="" src="dot.gif"/>
+                        <img class="corner_right" alt="" src="corner_right.png"/>
+                        
+                    </li>
+                    <li><img style="float:left;" alt="" src="menu_right.png"/></li>
+                </ul>
+            </li>
+        </ul>
+        <img style="margin-left:-42px" alt="" src="menu_right.png"/>
+        </div>
+        
+        <div style="margin-top: -48px;" id="content">
+
+<h2>Когда твоя девушка больна</h2>        
+        
+        <p>муз. Цой В. / сл. Цой В.</p>
+        
+<pre class="m10">
+ <strong>Вступление:</strong> G D G D | G D G D
+<strong>           </strong> C | D | G G/F# | Em Em/D  } 2 раза
+<strong>           </strong> C | D | G D G D | G D G D
+
+G        Em
+День как день,
+       C                D
+Только ты почему-то грустишь.
+G              Em  C
+И вокруг все поют,
+                  D
+Только ты один молчишь.
+G           Em
+Потерял аппетит
+     C                  D
+И не хочешь сходить в кино.
+G              Em
+Ты идёшь в магазин,
+C              D
+Чтобы купить вино.
+
+<strong>Припев:</strong>
+     C                   D
+     Солнце светит, и растёт трава,
+          G   G/F#     Em  Em/D
+     Но тебе она не нужна.
+     C             D
+     Всё не так, и всё не то,
+        G       G/F#        Em  Em/D
+     Когда твоя девушка больна.
+     C  D     G       G/F#        Em  Em/D
+     Мм-м… Когда твоя девушка больна.
+     C  D            G
+     Мм-м… Когда больна…
+
+<strong>Проигрыш:</strong> G D G D | G D G D
+
+Ты идёшь в магазин,
+Головою поник,
+Как будто иссяк
+Чистый горный родник.
+Она где-то лежит,
+Ест мёд и пьёт аспирин.
+И вот ты идёшь
+На вечеринку один.
+
+<strong>Припев:</strong>
+     Солнце светит, и растёт трава,
+     Но тебе она не нужна.
+     Всё не так, и всё не то,
+     Когда твоя девушка больна.
+     C             D       G       G/F#        Em  Em/D
+     На вечеринку один… Когда твоя девушка больна.
+     C             D       G       G/F#        Em  Em/D
+     На вечеринку один… Когда твоя девушка больна.
+     C  D     G       G/F#        Em  Em/D
+     Мм-м… Когда твоя девушка больна.
+     C  D     G       G/F#        Em  Em/D
+     Мм-м… Когда твоя девушка больна.
+
+<strong>Проигрыш:</strong>> C | D | G G/F# | Em Em/D | C | D
+
+<strong>Кода:</strong> G D G D | G D G D
+<strong>     </strong> C | D | G G/F# | Em Em/D  } 8 раз
+</pre>
+        
+    
+   
+    <div style="float:none; clear:both;"></div>
+    
+
+      
+  </div>  
+  <div id="footer">
+    <p>Copyright &copy;. All rights reserved. Design by Andrey Dobrynin</p>  
+    </div>    
+</div>
+
+
+
+
+
+
+</body>
+</html>
